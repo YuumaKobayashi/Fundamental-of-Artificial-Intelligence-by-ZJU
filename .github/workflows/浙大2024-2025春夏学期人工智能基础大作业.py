@@ -8,7 +8,7 @@
 
 
 
-#本设备未安装pytorch,直接在jupyter notebook的编辑界面直接安装
+#注意本设备未安装pytorch,直接在jupyter notebook的编辑界面直接安装
 !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 
 #以下是Claude 3.7 sonnet生成的模型选择、训练、评估、测试代码
